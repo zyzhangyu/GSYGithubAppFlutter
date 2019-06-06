@@ -39,6 +39,7 @@ dependencies:
           url: https://github.com/2d-inc/Flare-Flutter.git
           path: flare_flutter
           ref: dev
+  bezier: ^1.1.2
   flutter_localizations:
     sdk: flutter
   flutter_lottie:
@@ -107,6 +108,7 @@ flutter:
     - static/file/rejection2.json
     - static/file/flare_flutter_logo_.flr
     - static/file/loading_world_now.flr
+    - static/file/Space-Demo.flr
 
   fonts:
     - family: wxcIconFont
