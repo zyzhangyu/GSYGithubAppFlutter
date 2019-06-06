@@ -66,7 +66,7 @@ class _GSYPullLoadWidgetState extends State<GSYPullLoadWidget>
         }
       }
     });
-
+                     
     widget.control.addListener(() {
       setState(() {});
       try {
