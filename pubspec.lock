@@ -210,9 +210,9 @@ packages:
     dependency: "direct main"
     description:
       path: flare_flutter
-      ref: dev
-      resolved-ref: "396cd88df7638b86e55b4467364fa2c41cde1558"
-      url: "https://github.com/2d-inc/Flare-Flutter.git"
+      ref: master
+      resolved-ref: "7a305914e10a63fbbddbcc8fc473d62da319a7bc"
+      url: "https://github.com/CarSmallGuo/Flare-Flutter.git"
     source: git
     version: "1.5.1"
   flutter:
