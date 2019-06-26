@@ -1,6 +1,10 @@
 name: gsy_github_app_flutter
 description: Github Application
 
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
 dependencies:
   flutter:
     sdk: flutter
@@ -36,11 +40,12 @@ dependencies:
   webview_flutter: ^0.3.7+1
 
   bezier: ^1.1.2
+  provider: ^3.0.0+1
   flare_flutter:
     git:
       url: https://github.com/CarSmallGuo/Flare-Flutter.git
       path: flare_flutter
-      ref: master
+      ref: c7a59c9cff8887abb89f2c36b3911f5fbdf189c8
   flutter_localizations:
     sdk: flutter
   flutter_lottie:
